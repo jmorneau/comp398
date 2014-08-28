@@ -1,9 +1,9 @@
-import stateParser.py
+import stateParser
 
 def main():
 
 # 1. Creating an empty Linked List
-	linked_list = LinkedList()
+	linked_list = stateParser.LinkedList()
 
 # 2. Adding a single Node to Linked List
 	linked_list.add_node( "States", "Population" )
