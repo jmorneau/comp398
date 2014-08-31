@@ -3,7 +3,7 @@ import stateParserhw02
 def main():
 
 # 1. Creating an empty Linked List
-	linked_list = stateParser.LinkedList()
+	linked_list = stateParser2.LinkedList()
 
 # 2. Adding a single Node to Linked List
 	linked_list.add_node( "States", "Population" )

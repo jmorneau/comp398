@@ -1,0 +1,52 @@
+States	Population
+Alabama	Population : 4802982
+Alaska	Population : 721523
+Arizona	Population : 6412700
+Arkansas	Population : 2926229
+California	Population : 37341989
+Colorado	Population : 5044930
+Connecticut	Population : 3581628
+Delaware	Population : 900877
+Florida	Population : 18900773
+Georgia	Population : 9727566
+Hawaii	Population : 1366862
+Idaho	Population : 1573499
+Illinois	Population : 12864380
+Indiana	Population : 6501582
+Iowa	Population : 3053787
+Kansas	Population : 2863813
+Kentucky	Population : 4350606
+Louisiana	Population : 4553962
+Maine	Population : 1333074
+Maryland	Population : 5789929
+Massachusetts	Population : 6559644
+Michigan	Population : 9911626
+Minnesota	Population : 5314879
+Mississippi	Population : 2978240
+Missouri	Population : 6011478
+Montana	Population : 994416
+Nebraska	Population : 1831825
+Nevada	Population : 2709432
+New Hampshire	Population : 1321445
+New Jersey	Population : 8807501
+New Mexico	Population : 2067273
+New York	Population : 19421055
+North Carolina	Population : 9565781
+North Dakota	Population : 675905
+Ohio	Population : 11568495
+Oklahoma	Population : 3764882
+Oregon	Population : 3848606
+Pennsylvania	Population : 12734905
+Rhode Island	Population : 1055247
+South Carolina	Population : 4645975
+South Dakota	Population : 819761
+Tennessee	Population : 6375431
+Texas	Population : 25268418
+Utah	Population : 2770765
+Vermont	Population : 630337
+Virginia	Population : 8037736
+Washington	Population : 6753369
+West Virginia	Population : 1859815
+Wisconsin	Population : 5698230
+Wyoming	Population : 568300
+District of Columbia	Population : 601723

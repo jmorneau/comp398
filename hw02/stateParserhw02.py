@@ -77,7 +77,7 @@ class LinkedList:
 		      store
 	   Returns:
 		nothing
-	   """
+	"""
 		new_node = Node()
 		new_node.state = state
 		new_node.info = other
@@ -129,7 +129,7 @@ class LinkedList:
 		
 	    Returns:
 		None
-"""
+	"""
 		pointer = self.head
 		while pointer != None:
 			print pointer.state + "\t" + pointer.info	
@@ -148,7 +148,7 @@ class LinkedList:
 
 	   Returns:
 	 	none
-	""""
+	"""
 		file = open("states.txt", "w")
 		
 		pointer = self.head
