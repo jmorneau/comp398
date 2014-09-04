@@ -1,0 +1,37 @@
+
+Acanthocephala: 	Thorny headed worms 	Thorny-headed worms 	Reversible spiny proboscis. Now usually included in Rotifera. 	756 extant (= living)
+Acoelomorpha: 	Without gut 	Acoels 	No mouth or alimentary canal (alimentary canal = digestive tract in digestive system) 	
+Annelida:	Little ring 	Segmented worms 	Multiple circular segment 	17,000+ extant
+Arthropoda: 	Jointed foot 	Arthropods 	Chitin exoskeleton 	1,134,000+
+Brachiopoda: 	Arm foot 	Lamp shells 	Lophophore and pedicle 	300-500 extant
+Bryozoa:	Moss animals 	Moss animals, sea mats 	Lophophore, no pedicle, ciliated tentacles 	5,000 extant
+Chaetognatha: 	Longhair jaw 	Arrow worms 	Chitinous spines either side of head, fins 	100 extant
+Chordata: 	With a cord 	Chordates 	Hollow dorsal nerve cord, notochord, pharyngeal slits, endostyle, post-anal tail 	100,000+
+Cnidaria: 	Stinging nettle 	Coelenterates 	Nematocysts (stinging cells) 	11,000
+Ctenophora: 	Comb bearer 	Comb jellies 	Eight "comb rows" of fused cilia 	100 extant
+Cycliophora:	Wheel carrying 	Symbion 	Circular mouth surrounded by small cilia 	3+
+Echinodermata: 	Spiny skin 	Echinoderms 	Fivefold radial symmetry in living forms, mesodermal calcified spines 	7,000 extant; approx. 13,000 extinct
+Entoprocta: 	Inside anus 	Goblet worm 	Anus inside ring of cilia 	150
+Gastrotricha: 	Hair stomach 	Meiofauna 	Two terminal adhesive tubes 	690
+Gnathostomulida: 	Jaw orifice 	Jaw worms 		100
+Hemichordata: 	Half cord 	Acorn worms, pterobranchs 	Stomochord in collar, pharyngeal slits 	100 extant
+Kinorhyncha: 	Motion snout 	Mud dragons 	Eleven segments, each with a dorsal plate 	150
+Loricifera: 	Corset bearer 	Brush heads 	Umbrella-like scales at each end 	122
+Micrognathozoa: 	Tiny jaw animals 	— 	Accordion-like extensible thorax. Newly discovered; close to Rotifers. 	1
+Mollusca: 	Soft 	Mollusks / molluscs 	Muscular foot and mantle round shell 	112,000[11]
+Nematoda: 	Thread like 	Round worms 	Round cross section, keratin cuticle 	80,000–1,000,000
+Nematomorpha: 	Thread form 	Horsehair worms 		320
+Nemertea:	A sea nymph 	Ribbon worms 		1,200
+Onychophora: 	Claw bearer 	Velvet worms 	Legs tipped by chitinous claws 	200 extant
+Orthonectida: 	Straight swim 		Single layer of ciliated cells surrounding a mass of sex cells 	20
+Phoronida: 	Zeus's mistress 	Horseshoe worms 	U-shaped gut 	11
+Placozoa: 	Plate animals 			1
+Platyhelminthes: 	Flat worms 	Flat worms 		25,000[12]
+Porifera*: 	Pore bearer 	Sponges 	Perforated interior wall 	5,000+ extant
+Priapulida: 	Little Priapus 			16
+Rhombozoa:	Lozenge animal 	— 	Single axial cell form front to bak, surrounded by ciliated cells 	75
+Rotifera: 	Wheel bearer 	Rotifers 	crown of cilia at front 	2,000
+Sipuncula: 	Small tube 	Peanut worms 	Mouth surrounded by invertible tentacles 	144–320
+Tardigrada: 	Slow step 	Water bears 	Four segmented body and head 	1,000+
+Xenoturbellida: 	Strange flatworm 	— 	Ciliated deuterostome 	2
+
