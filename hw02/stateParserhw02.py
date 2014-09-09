@@ -1,5 +1,7 @@
+pydoc sys
+
 class Node:
-""" Creates a node that has the state, info for that state and 
+	""" Creates a node that has the state, info for that state and 
     a pointer to the next node
 
 
