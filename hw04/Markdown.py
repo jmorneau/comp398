@@ -24,6 +24,9 @@ def markdown(self, list):
 		'######:<h6>,
 		'* ':<li>,
 		'**':<em>,
-		'[':<a>,
-		'(':<href>
 		}
+def replace_headers(self, dict, lst):
+	for dict in lst:
+		
+		
+	
