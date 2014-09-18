@@ -1,0 +1,25 @@
+
+<svg version="1.1"
+     baseProfile="full"
+     width="300" height="200"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="70%" height="100%" fill="white" />
+
+  <line x1="0" x2="200" y1="0" y2="0" stroke="black" stroke-width="5"/>
+  <line x1="200" x2="200" y1="0" y2="200" stroke="black" stroke-width="5"/>
+  <line x1="0" x2="200" y1="200" y2="200" stroke="black" stroke-width="5"/>
+  <line x1="0" x2="0" y1="0" y2="200" stroke="black" stroke-width="5"/>
+
+  <rect x="75" y="45" width="50" height="50" fill="red"/>
+
+  <rect x="75" y="105" width="50" height="50" fill="red"/>
+
+  <rect x="105" y="75" width="50" height="50" fill="red"/>
+
+  <rect x="45" y="75" width="50" height="50" fill="red"/>
+
+  <rect x="75" y="75" width="50" height="50" fill="red"/>
+  
+
+</svg>
