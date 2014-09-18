@@ -1,0 +1,10 @@
+#calories{
+	float: left-align;
+	width: 300;
+}
+dd {
+	float: right;
+}
+dt {
+	float:left;
+}
