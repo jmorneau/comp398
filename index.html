@@ -1,79 +1,86 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Comp398 : ">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Computer Science House</title>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="MyCss.css" rel="stylesheet">
 
-    <title>Comp398</title>
   </head>
-
   <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/jmorneau/comp398">View on GitHub</a>
-
-          <h1 id="project_title">Comp398</h1>
-          <h2 id="project_tagline"></h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/jmorneau/comp398/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/jmorneau/comp398/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Computer Science House</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="#">Home</a></li>
+            <li id="about"><a href="#about">About</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Members<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li id="evan"><a href="#Evan Chessman">Evan Chessman</a></li>
+                <li id="zevi"><a href="#Zevi Rubin">Zevi Rubin</a></li>
+                <li id="grace"><a href="#Grace Ulinski">Grace Ulinski</a></li>
+                <li id="bryan"><a href="#Bryan Jensen">Bryan Jensen</a></li>
+                <li id="andrew"><a href="#Andrew Shelton">Andrew Shelton</a></li>
+                <li id="meghan"><a href="#Meghan Dorian">Meghan Doorian</a></li>
+                <li id="kamran"><a href="#Kamran Noorian">Kamran Noorian</a></li>
+                <li id="anna"><a href="#Anna Fried">Anna Fried</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
     </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>
-<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
-
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
-
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
-
-<h3>
-<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
-
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
-
-<h3>
-<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
-
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
-
-<h3>
-<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
+    <div class="jumbotron" style="background-image:url('img/WP_20131113_19_24_01_Pro.jpg'); background-size: 100%">
+      <div class="container" style="height: 700px;">
+      <br>
+      <br>
+      </div>
     </div>
+    <div class="container marketing">
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Comp398 maintained by <a href="https://github.com/jmorneau">jmorneau</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
+      <!-- Three columns of text -->
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="img-circle" src="img/WP_20140919_17_26_43_Pro.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+          <h2>Binary BBQ</h2>
+          <p>The Binary BBQ is a welcome back BBQ. Where friends can come and have a good time eating hot-dogs, burgers, vegi-burgers, chips and dirnk some soda. President Hanno, of Wheaton College may even may come!</p>
+          <p><button type="button" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-calendar"></span> Details </button></p>
+        </div>
 
-    
+        <div class="col-lg-4">
+          <img class="img-circle" src="img/Sketchup.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+          <h2>Sketch up talk</h2>
+          <p>The Computer Science house's own Bryan Jensen will be giving a talk about Sketch UP and how to use the 3D printer located in the Whale Lab.</p>
+          <p><button type="button" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-calendar"></span> Details </button></p>
+        </div>
 
+        <div class="col-lg-4">
+          <img class="img-circle" src="img/Led.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+          <h2>LED Fencing</h2>
+          <p>The Computer Science House in colaboration with the Fencing Club and Computer Science Club will be putting on a show.where the fencers will be outfitted with LEDs and fence in the dark!</p>
+          <p><button type="button" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-calendar"></span> Details </button></p>
+        </div>
+      </div><!-- ends the row --> 
+    </div>   
   </body>
-</html>
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="js/bootstrap.min.js"></script>
+  
+  </html>
