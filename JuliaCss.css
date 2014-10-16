@@ -9,8 +9,24 @@ h4 {
 .featurette-heading {
   font-weight: 300;
   line-height: 1.5;
-  font-family: 'Pacifico';
+  font-family: 'Pacifico', cursive;
   color: white
+}
+
+
+h3{
+	font-weight: 200;
+  	line-height: 1;
+  	font-family: 'Pacifico', cursive;
+	color: grey;
+	
+}
+
+.Map {
+	font-weight: 300;
+  	line-height: 1;
+  	font-family: 'Pacifico', cursive;
+  	color: white;
 }
 
 .marketing .col-lg-6 p {
