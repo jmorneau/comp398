@@ -44,3 +44,7 @@ body {
   stroke-opacity: .4;
   fill: none;
 }
+
+.member-name {
+  text-align: center;
+}
