@@ -1,0 +1,39 @@
+body {
+	background-color: #2c3e50;
+
+}
+h4 {
+	line-height: 250%;
+}
+
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1.5;
+  font-family: 'Pacifico', cursive;
+  color: white
+}
+
+
+h3{
+	font-weight: 200;
+  	line-height: 1;
+  	font-family: 'Pacifico', cursive;
+	color: grey;
+	
+}
+
+.Map {
+	font-weight: 300;
+  	line-height: 1;
+  	font-family: 'Pacifico', cursive;
+  	color: white;
+}
+
+.marketing .col-lg-6 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.marketing .col-lg-8 img {
+  float: center;
+}

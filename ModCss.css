@@ -1,0 +1,36 @@
+body {
+	background-color: #2c3e50;
+
+}
+.hideme {
+  display: none;
+}
+
+.featurette-divider {
+  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+  /*font-family: Josefin Sans;*/
+  /*font-family: 'Shadows Into Light', cursive;*/
+  font-family: 'Pacifico', cursive;
+  color: white
+}
+
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: normal;
+  color: white;
+}
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+  color: white;
+}
