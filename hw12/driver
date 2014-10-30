@@ -1,0 +1,7 @@
+Driver program for LinkedList.js
+it will :
+1. Create an empty list
+2. Add a singe node to the end of the list
+3. populate the list from a flat file - hw 02
+4. Search the list for a value
+5. display the list in plain text form
