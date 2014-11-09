@@ -1,0 +1,14 @@
+{
+  "name": "nov6",
+  "version": "1.0.0",
+  "description": "class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.1"
+  }
+}
