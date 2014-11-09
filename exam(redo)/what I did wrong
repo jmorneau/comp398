@@ -2,7 +2,13 @@ Problem 1:
 	fixed ; after ampersand
 	changed to style tags
 	added an attribute to img elt
+	style tag in head tag
+	used background-color and span(for font-size)
 
 Problem 2:
 	Fixed Degrees
 	used css to add border and curve on corners 
+	and margin to add space between images
+	used border: dashed to make a dashed border
+	used border-radius to curve the corners on the images
+	
