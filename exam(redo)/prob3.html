@@ -3,18 +3,25 @@
 <head>
 	<title> Problem 3 </title>
 	<script type="text/javascript">
-		var n = prompt("Enter n: ");
+		var z = prompt("Enter n: ");
+		var n = parseInt(z, 10);
+
+		var list = [];
 
 		var a;
-		for (i = 0; i < n; i++) { 
-			
-			a = ((n * (n+1))/2) +1;
-			document.write(a);
-			document.write("  ");
-			n= n-a;
+		
+
+		for (var i = 0; i < n; i++) { 
+			a = ((i* (i+1))/2) +1;
+			list.push(a);
 		}
 
-	    	
+		for (var i=0; i < list.length; i++)
+		{
+			document.write(list[i] + "<br>");
+		}
+
+			    	
 
 	</script>
 
