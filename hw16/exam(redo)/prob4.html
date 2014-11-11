@@ -1,1 +1,238 @@
+<!DOCTYPE html>
 <!-- Problem 4 -->
+
+<html>
+	<head>
+		<title> 10 day forcast </title>
+	</head>
+	<body>
+		<!--
+		<script>
+			var data = [
+				{ "Monday": {
+					"Sky": "Sunny",
+					"high-temp": "59F",
+					"wind": "WNW at 10 to 20 mph"
+				},
+				"Monday Night": {
+					"Sky": "Clear Skys",
+					"low-temp": "40F",
+					"wind": "Winds W at 5 to 10 mph"
+				},
+
+				"Tuesday": {
+					"Sky": "Partly cloudy",
+					"high-temp": "69F",
+					"wind": "Winds SSW at 10 to 15 mph"
+				},
+				"Tuesday Night": {
+					"Sky": "More clouds than sun",
+					"low-temp": "55F",
+					"wind": "Winds SSW at 5 to 10 mph"
+				},
+				"Wednesday": {
+					"Sky": "Partly cloudy",
+					"high-temp": "70F",
+					"wind": "Winds SW at 10 to 15 mph"
+				},
+				"Wednesday Night": {
+					"Sky": "Rain showers early with overcast skies late",
+					"low-temp": "44F",
+					"wind": "Winds WNW at 5 to 10 mph"
+				},
+				"Thrusday": {
+					"Sky": "Partly cloudy",
+					"high-temp": "57F",
+					"wind": "Winds NW at 5 to 10 mph"
+				},
+				"Thrusday Night": {
+					"Sky": "Some clouds early will give way to generally clear conditions overnight",
+					"low-temp": "37F",
+					"wind": "Winds light and variable"
+				},
+				"Friday": {
+					"Sky": "Sunny along with a few clouds",
+					"high-temp": "57F",
+					"wind": "Winds WNW at 5 to 10 mph"
+				},
+				"Friday Night": {
+					"Sky": "Partly cloudy",
+					"low-temp": "39F",
+					"wind": "Winds W at 5 to 10 mph"
+				},
+				"Saturday": {
+					"Sky": "Light rain early. A mix of sun and clouds in the afternoon",
+					"high-temp": "42F",
+					"wind": " Winds WNW at 15 to 25 mph"
+				},
+				"Saturday Night": {
+					"Sky": "Mostly cloudy. Rain and snow showers in the evening. A few snow showers late",
+					"low-temp": "29F",
+					"wind": " Winds NW at 15 to 25 mph"
+				},
+				"Sunday": {
+					"Sky": "A mainly sunny sky",
+					"high-temp": "45F",
+					"wind": "Winds NW at 15 to 25 mph"
+				},
+				"Sunday Night": {
+					"Sky": "Clear skies",
+					"low-temp": "30F",
+					"wind": "Winds W at 5 to 10 mph"
+				},
+				"Monday": {
+					"Sky": "A mainly sunny sky",
+					"high-temp": "52F",
+					"wind": "Winds WSW at 10 to 20 mph"
+				},
+				"Monday Night": {
+					"Sky": "A few clouds from time to time",
+					"low-temp": "37F",
+					"wind": "Winds WSW at 10 to 15 mph"
+				},
+				"Tuesday": {
+					"Sky": "Partly cloudy skies",
+					"high-temp": "58F",
+					"wind": "Winds WSW at 10 to 15 mph"
+				},
+				"Tuesday Night": {
+					"Sky": "Partly cloudy skies during the evening will give way to cloudy skies overnight",
+					"low-temp": "45F",
+					"wind": "Winds SW at 5 to 10 mph"
+				},
+				"Wednesday": {
+					"Sky": "Cloudy in the morning, then off and on rain showers during the afternoon hours",
+					"high-temp": "59F",
+					"wind": "Winds SW at 10 to 15 mph"
+				},
+				"Wednesday Night": {
+					"Sky": "Rain likely",
+					"low-temp": "46F",
+					"wind": "Winds SW at 5 to 10 mph"
+				}
+
+
+			}]
+
+
+			for (var i = 0; i < data.length; i++) { 
+				document.write(data[i] + "<br>");
+			}
+
+		</script>
+
+	-->
+<!--MONDAAY-->
+	<svg width="1000" height="50000000000000000">
+  		<rect x="0" y="0"width="500" height="500" fill="white" style="stroke-width:5;stroke:rgb(255,255,0)" />
+  		<g font-family="Verdana" font-size="45" >
+  			<text x="150" y="100" fill="Black">Monday</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="75" y="200" fill="Black">Skies : Sunny</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="75" y="300" fill="Black">high-temp: 59F</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="25" >
+  			<text x="75" y="400" fill="Black">wind : WNW at 10 to 20 mph</text>
+  		</g>
+		
+
+  		<rect x="500" y="0"width="500" height="500" fill="black" style="stroke-width:5;stroke:rgb(255,255,0)"/>
+  		<g font-family="Verdana" font-size="45" >
+  			<text x="600" y="100" fill="White">Monday Night</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="575" y="200" fill="White">Skies : Clear</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="575" y="300" fill="White">Low-temp: 40F</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="575" y="400" fill="White">wind : Winds W at 5 to 10 mph</text>
+  		</g>
+
+<!--TUESDAY-->
+
+  		<rect x="0" y="500"width="500" height="500" fill="white" style="stroke-width:5;stroke:rgb(255,255,0)" />
+  		<g font-family="Verdana" font-size="45" >
+  			<text x="150" y="600" fill="Black">Tuesday</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="75" y="700" fill="Black">Skies : Partly Cloudy</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="75" y="800" fill="Black">high-temp: 69F</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="75" y="900" fill="Black">wind : Winds SSW at 10 to 15 mph</text>
+  		</g>
+
+  		<rect x="500" y="500"width="500" height="500" fill="black" style="stroke-width:5;stroke:rgb(255,255,0)"/>
+  		<g font-family="Verdana" font-size="45" >
+  			<text x="600" y="600" fill="White">Tuesday Night</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="575" y="700" fill="White">Skies : More clouds than sun</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="575" y="800" fill="White">Low-temp: 55F</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="575" y="900" fill="White">wind : Winds SSW at 5 to 10 mph</text>
+  		</g>
+
+  		<!--WEDNESDAY-->
+
+  		<rect x="0" y="1000"width="500" height="500" fill="white" style="stroke-width:5;stroke:rgb(255,255,0)" />
+  		<g font-family="Verdana" font-size="45" >
+  			<text x="120" y="1100" fill="Black">Wednesday</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="75" y="1200" fill="Black">Skies : Partly Cloudy</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="75" y="1300" fill="Black">high-temp: 70F</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="75" y="1400" fill="Black">wind : Winds SW at 10 to 15 mph</text>
+  		</g>
+
+  		<rect x="500" y="1000"width="500" height="500" fill="black" style="stroke-width:5;stroke:rgb(255,255,0)"/>
+  		<g font-family="Verdana" font-size="45" >
+  			<text x="550" y="1100" fill="White">Wednesday Night</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="575" y="1200" fill="White">Skies : Rain showers early with overcast skies late</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="575" y="1300" fill="White">Low-temp: 44F</text>
+  		</g>
+
+  		<g font-family="Verdana" font-size="15" >
+  			<text x="575" y="1400" fill="White">wind : Winds WNW at 5 to 10 mph</text>
+  		</g>
+
+	</svg>
+
+	</body>
+
+</html>

@@ -17,4 +17,5 @@ Problem 3:
 		displays the sequence with every in on its own line
 
 Problem 4:
-	ask tom...
+	Took data from each half of the day, the skies, temp(low for night, high for day)
+		and the wind.
